@@ -1,5 +1,5 @@
-{
+(function () {$(document).on('ready', function () {
 
-console.log('Sarasa');
+$('#navigation a:first').tab('show');
 
-}
+})})();
