@@ -5,7 +5,6 @@ function showInIframe(link) {
     var $iframe = $('<iframe src="' + link + '" width="100%" height="100%"></iframe>'),
         $project = $('#project');
     $project.html($iframe);
-    $('#navigation .active').tab('hide')
     $project.tab('show');
 }
 
