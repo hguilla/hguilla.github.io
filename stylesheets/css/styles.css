@@ -2,6 +2,10 @@ body {
     padding-top: 5rem;
 }
 
-.main-container {
+.center-block {
     text-align: center;
+}
+
+.content-title {
+    margin-bottom: 1rem;
 }
