@@ -9,3 +9,7 @@ body {
 .content-title {
     margin-bottom: 1rem;
 }
+
+.full-vh {
+    min-height: 100vh;
+}
