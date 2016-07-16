@@ -2,6 +2,14 @@ body {
     padding-top: 5rem;
 }
 
+.navbar-fixed-top {
+    font-family: 'Mogra', cursive;
+}
+
+.tab-pane header {
+    font-family: 'Black Ops One';
+}
+
 .center-block {
     text-align: center;
 }
